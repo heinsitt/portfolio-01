@@ -12,8 +12,8 @@ spec:
       labels:
         app: portfolio
     spec:
-    containers:
-    - name: portfolio
-      image: heinsitt/portfolio:latest
-      ports:
-      - containerPort: 80
+      containers:
+      - name: portfolio
+        image: heinsitt/portfolio:latest
+        ports:
+        - containerPort: 80
