@@ -4,6 +4,8 @@ This project showcases an automated GitOps Continuous Deployment (CD) pipeline f
 
 ---
 
+---
+
 ## 🛠️ Tech Stack & Tools
 - **Containerization:** Docker & Docker Hub
 - **Orchestration:** Kubernetes
