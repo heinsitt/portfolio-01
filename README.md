@@ -4,6 +4,8 @@ This project showcases an automated GitOps Continuous Deployment (CD) pipeline f
 
 ---
 
+## 🏛️ Lab Overview & Architecture
+![GitOps Lab Architecture](images/architecture.jpg)
 ---
 
 ## 🛠️ Tech Stack & Tools
